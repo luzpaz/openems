@@ -60,7 +60,7 @@
     "@angular/cli": "^16.2.13",
     "@angular/compiler": "^16.2.12",
     "@angular/compiler-cli": "^16.2.12",
-    "@angular/language-service": "^16.2.12",
+    "@angular/language-service": "^18.2.8",
     "@capacitor/assets": "^3.0.0",
     "@capacitor/cli": "6.1.1",
     "@ionic/angular-toolkit": "^11.0.1",
